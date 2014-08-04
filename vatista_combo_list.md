@@ -1,11 +1,3 @@
----
-title: Vatista Notes - Combo List
-layout: post
-author: Westley Mojica
-twitter: glidesu
-date: 2014-08-04
----
-
 ## Combo List ##
 
 ### Random B Drill starter ###
