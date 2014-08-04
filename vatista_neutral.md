@@ -1,11 +1,3 @@
----
-title: Vatista Notes - Neutral Game
-layout: post
-author: Westley Mojica
-twitter: glidesu
-date: 2014-08-04
----
-
 ## Neutral Game ##
 
 Fragmentum is a really strong tool to have in neutral. If you can get
