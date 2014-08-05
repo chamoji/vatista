@@ -1,9 +1,17 @@
 ## Neutral Game ##
 
 Fragmentum is a really strong tool to have in neutral. If you can get
-these out safely, they will threaten just by occupying areas near 
-your attack ranges. Use Vatista's lasers, balls, and normals to 
+these out safely, Fragmentum Use Vatista's lasers, balls, and normals to 
 bring out Fragmentum safely.
+
+### General Vatista Strategy ###
+
+#### Defensive opening moves ####
+
+1. jump backwards > air Lumen
+2. A Laser
+3. backstep
+
 
 ### Pressure & Mix-up ###
 
