@@ -2,7 +2,7 @@
 
 ### Far 5A Hitconfirm ###
 
-_![Video Reference](https://www.youtube.com/watch?v=73EDkXrc6lQ#t=153)_
+_[Video Reference](https://www.youtube.com/watch?v=73EDkXrc6lQ#t=153)_
 
 > 5A (hitconfirm) > 2B > 2C > 2A whiff > dash 2A > 2B > jc9 > j.B > j.C >
 > j.A > land > j.[9]A > j.B > j.]8[[2]A > [2]A > ]2[8C
