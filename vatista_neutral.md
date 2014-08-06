@@ -1,17 +1,14 @@
 ## Neutral Game ##
 
-Fragmentum is a really strong tool to have in neutral. If you can get
-these out safely, Fragmentum Use Vatista's lasers, balls, and normals to 
-bring out Fragmentum safely.
+Fragmentum is a really strong tool to have in neutral. Use Vatista's lasers, balls, and normals to bring out Fragmentum safely.
 
 ### General Vatista Strategy ###
 
-#### Defensive opening moves ####
+#### Defensive Opening Moves ####
 
 1. jump backwards > air Lumen
 2. A Laser
 3. backstep
-
 
 ### Pressure & Mix-up ###
 
@@ -41,4 +38,4 @@ front of you. Then, if you set a Crouching Fragmentum you can
 stay behind it from 5A distance and use this time to Concentrate 
 and build GRD.
 
-_Updated: 2014-08-04_
+_Updated: 2014-08-06_
