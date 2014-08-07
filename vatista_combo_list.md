@@ -28,7 +28,7 @@ _Safe jump and detonates Fragmentum to hit meaty. Really strong._
 > j.C > 2C > 5C > jc[9] > j.A > j.[B] > j.]8[2A > 2[C] > 2]B[ > 2A > 2B > 
 > 2]C[ > delay j.B (detonate)
 
-### Hyde Craver Punish ###
+###  Hyde Craver Punish ###
 
 _Punish a DP with a Veil Off combo!_
 _After IW you can setup Fragmentum oki._
@@ -36,4 +36,4 @@ _After IW you can setup Fragmentum oki._
 > 2C High Counter > 5C > jc[9] > j.A > j.B > j.]8[2[A] > 2[C] > delay 5B >
 > 5]A[ > 5A > 5B > 2]C[ > VO (detonate) > j.[9]C > j.FF > j.]8[2C > IW 
 
-_Updated: 2014-08-05_
+_Updated: 2014-08-06_
