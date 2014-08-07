@@ -4,25 +4,29 @@ Some details about the system. Might be useful to know.
 
 ## HP Rankings ##
 
-Waldstein: 10800
-Gordeau: 10500
-Carmine: 10000
-Akatsuki: 10000
+1. Waldstein: 10800
 
-Yuzuriha: 9800
-Chaos: 9800
+2. Gordeau: 10500
 
-Vatista: 9600
+3. Carmine: 10000
+4. Akatsuki: 10000
 
-Nanase: 9500
-Linne: 9500
-Hyde: 9500
-Byakuya: 9500
+5. Yuzuriha: 9800
+6. Chaos: 9800
 
-Orie: 9450
-Eltnum: 9400
+7. Vatista: 9600
 
-Merkava: 9200
-Hilda: 9100
+8. Nanase: 9500
+9. Linne: 9500
+10. Hyde: 9500
+11. Byakuya: 9500
 
-Seth: 8100
+12. Orie: 9450
+
+13. Eltnum: 9400
+
+14. Merkava: 9200
+
+15. Hilda: 9100
+
+16. Seth: 8100
